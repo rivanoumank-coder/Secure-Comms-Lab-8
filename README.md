@@ -5,10 +5,6 @@ database table. The project is built as a progressive Jupyter notebook: each sta
 implements one cracking technique **from scratch** to show *how* and *why* it works,
 and the strategy escalates only when the previous approach hits a computational wall.
 
-> ⚠️ **Educational / authorized use only.** The target data comes from a controlled
-> academic lab exercise. These techniques must only be used against systems and data
-> you own or have explicit permission to test.
-
 ---
 
 ## Scenario
@@ -158,9 +154,3 @@ dominate password cracking.
 - The CPU-vs-GPU gap and why password length is the defense that actually scales.
 
 ---
-
-## Disclaimer
-
-This repository is for educational purposes and authorized security testing only.
-It documents a solved academic lab exercise. Do not apply these techniques to any
-system or data without explicit authorization.
